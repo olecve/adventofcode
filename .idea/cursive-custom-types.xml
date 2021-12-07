@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CustomFileTypes">
+    <file url="file://$PROJECT_DIR$/day-01-I/run.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/day-01-II/run.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/day-02-I/run.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/day-02-II/run.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/day-03-I/run.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/day-03-II/run.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/day-05-I/run.clj" value="BABASHKA" />
+    <file url="file://$PROJECT_DIR$/day-05-II/run.clj" value="BABASHKA" />
+  </component>
+</project>

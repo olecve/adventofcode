@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="BuildSystem">
+    <option name="buildSystemId" value="CLOJURE_DEPS" />
+    <option name="displayName" value="adventofcode" />
+  </component>
+  <component name="FacetManager">
+    <facet type="BABASHKA" name="Babashka">
+      <configuration>
+        <option name="bbPath" value="C:\bin\babashka\bb.exe" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/../adventofcode-2021/src">
+      <sourceFolder url="file://$MODULE_DIR$/../adventofcode-2021/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../adventofcode-2021/test">
+      <sourceFolder url="file://$MODULE_DIR$/../adventofcode-2021/test" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Deps: org.clojure/clojure:1.10.3" level="project" />
+    <orderEntry type="library" name="Deps: org.clojure/spec.alpha:0.2.194" level="project" />
+    <orderEntry type="library" name="Deps: org.clojure/core.specs.alpha:0.2.56" level="project" />
+  </component>
+</module>
